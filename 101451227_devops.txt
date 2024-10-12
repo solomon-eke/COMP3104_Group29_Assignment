@@ -1,0 +1,1 @@
+In COMP 3104 DevOps course will learn the BASH, GIT, GITHUB and The CLI
