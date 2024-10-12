@@ -1,1 +1,5 @@
-In COMP 3104 DevOps course will learn the BASH, GIT, GITHUB and The CLI
+In COMP 3104 DevOps course will learn the BASH, GIT, GITHUB and The CLI.
+also get to learn Version Control and Hosting High Geared Single Page Applications.
+
+
+
