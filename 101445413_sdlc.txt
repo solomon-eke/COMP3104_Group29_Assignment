@@ -3,3 +3,9 @@ The software development lifecycle (SDLC) is the cost-effective
  build high-quality software. The goal of SDLC is to minimize project 
  risks through forward planning so that software meets
  customer expectations during production and beyond.
+
+
+ The practice of DevOps encourages smoother, continuous 
+ communication, collaboration, integration, visibility, and 
+ transparency between application development teams (Dev) 
+ and their IT operations team (Ops) counterparts.
