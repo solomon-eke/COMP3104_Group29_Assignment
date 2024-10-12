@@ -1,5 +1,7 @@
 Learning DevOps is essential in the software development cycle as it
- enhances collaboration between development and operations teams.
- also Continuous Integration and Continuous Deployment (CI/CD) and Improved Collaboration.
- In 2nd half of this course we will learn Working with Cloud Infrastructure, Automating
-DevOps & Quality assurance
+enhances collaboration between development and operations teams.
+also Continuous Integration and Continuous Deployment (CI/CD) and Improved Collaboration.
+DevSecOps Integrating security practices into the DevOps pipeline ensures that security is
+considered throughout the development cycle, rather than being an afterthought.
+Automated Security Checks: Regularly implementing security checks helps identify
+vulnerabilities early and reduce risks.
