@@ -1,3 +1,4 @@
 DevOps is a methodology in the software development and IT industry.
 this is a very good class
 devops is great to learn 
+DevOps is a collection of methods that integrate software development and IT operations to provide a more efficient and smooth workflow.
