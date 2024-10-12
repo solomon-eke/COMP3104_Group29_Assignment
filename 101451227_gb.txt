@@ -6,3 +6,6 @@ George Brown College (GBC) is a public college located in Toronto, Ontario, Cana
   and certificate programs. The college has several campuses in downtown Toronto, 
   making it accessible and providing students with opportunities for internships and 
   jobs in a bustling urban environment.
+    St. James Campus:
+    Waterfront Campus:
+    Casa Loma Campus:       
